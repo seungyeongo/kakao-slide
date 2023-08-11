@@ -40,54 +40,54 @@ img_talk_button.png
 #wrap section {
   overflow: hidden;
 }
-#wrap section > .gnb {
+#wrap section > .slides-navgation {
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
   margin: 30px 0;
 }
-#wrap section > .gnb > li {
+#wrap section > .slides-navgation > li {
   width: 80px;
   text-indent: -9999px;
   background-image: url(../images/btn_talk.png);
 }
-#wrap section > .gnb > li:nth-child(1) {
+#wrap section > .slides-navgation > li:nth-child(1) {
   background-position: 0 0;
 }
-#wrap section > .gnb > li:nth-child(1).on, #wrap section > .gnb > li:nth-child(1):hover {
+#wrap section > .slides-navgation > li:nth-child(1).on, #wrap section > .slides-navgation > li:nth-child(1):hover {
   background-position: 0 -90px;
 }
-#wrap section > .gnb > li:nth-child(2) {
+#wrap section > .slides-navgation > li:nth-child(2) {
   background-position: -80px 0;
 }
-#wrap section > .gnb > li:nth-child(2).on, #wrap section > .gnb > li:nth-child(2):hover {
+#wrap section > .slides-navgation > li:nth-child(2).on, #wrap section > .slides-navgation > li:nth-child(2):hover {
   background-position: -80px -90px;
 }
-#wrap section > .gnb > li:nth-child(3) {
+#wrap section > .slides-navgation > li:nth-child(3) {
   background-position: -160px 0;
 }
-#wrap section > .gnb > li:nth-child(3).on, #wrap section > .gnb > li:nth-child(3):hover {
+#wrap section > .slides-navgation > li:nth-child(3).on, #wrap section > .slides-navgation > li:nth-child(3):hover {
   background-position: -160px -90px;
 }
-#wrap section > .gnb > li:nth-child(4) {
+#wrap section > .slides-navgation > li:nth-child(4) {
   background-position: -240px 0;
 }
-#wrap section > .gnb > li:nth-child(4).on, #wrap section > .gnb > li:nth-child(4):hover {
+#wrap section > .slides-navgation > li:nth-child(4).on, #wrap section > .slides-navgation > li:nth-child(4):hover {
   background-position: -240px -90px;
 }
-#wrap section > .gnb > li:nth-child(5) {
+#wrap section > .slides-navgation > li:nth-child(5) {
   background-position: -320px 0;
 }
-#wrap section > .gnb > li:nth-child(5).on, #wrap section > .gnb > li:nth-child(5):hover {
+#wrap section > .slides-navgation > li:nth-child(5).on, #wrap section > .slides-navgation > li:nth-child(5):hover {
   background-position: -320px -90px;
 }
-#wrap section > .gnb > li:nth-child(6) {
+#wrap section > .slides-navgation > li:nth-child(6) {
   background-position: -400px 0;
 }
-#wrap section > .gnb > li:nth-child(6).on, #wrap section > .gnb > li:nth-child(6):hover {
+#wrap section > .slides-navgation > li:nth-child(6).on, #wrap section > .slides-navgation > li:nth-child(6):hover {
   background-position: -400px -90px;
 }
-#wrap section > .gnb > li > a {
+#wrap section > .slides-navgation > li > a {
   display: block;
   height: 90px;
 }

@@ -1,4 +1,4 @@
-const $indicator = $('.gnb>li');
+const $indicator = $('.slides-navgation>li');
 const $container = $('.slides-container');
 
 let nowIdx = 0;
